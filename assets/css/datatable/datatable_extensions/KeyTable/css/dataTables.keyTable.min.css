@@ -1,0 +1,15 @@
+/*table.KeyTable th.focus,
+table.KeyTable td.focus {
+	outline: 3px solid #3366FF;
+	outline-offset: -3px;
+}*/
+
+table.KeyTable th.focus,
+table.KeyTable td.focus {
+	background-color: #f5f5f5 !important;
+}
+
+table.KeyTable tr.focus { 
+	/*outline: 3px solid #3366FF; outline-offset: -3px; */
+	background-color: #b4b4b4 !important;
+}

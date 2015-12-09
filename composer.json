@@ -1,0 +1,12 @@
+{
+    "name": "ryan/test-codeigniter",
+    "require": {
+        "monolog/monolog": "1.2.*"
+    },
+    "authors": [
+        {
+            "name": "ryanskie",
+            "email": "ryanskiefelipe@gmail.com"
+        }
+    ]
+}
