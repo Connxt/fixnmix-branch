@@ -7,7 +7,7 @@
 <body class="login-page">
     <div class="login-box">
     	<div class="login-logo">
-        	<a href="#"><b>Fix N' Mix</b></a>
+        	<a href="#"><b>POS</b></a>
       	</div>
       	<div class="login-box-body">
         	<p class="login-box-msg">Sign in to start your session</p>

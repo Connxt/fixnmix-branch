@@ -1,4 +1,4 @@
-<a href="#" class="logo"><img src="<?php echo base_url(); ?>assets/images/logo.png" style="width:20%; position:relative; left:-10px;"/><b style="margin-right:30px;">Bakeshop</b></a>
+<a href="#" class="logo">POS</b></a>
 <nav class="navbar navbar-static-top" role="navigation">
     <a href="#" class="sidebar-toggle" data-toggle="offcanvas" role="button">
         <span class="sr-only">Toggle navigation</span>

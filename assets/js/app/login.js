@@ -54,7 +54,6 @@ var Login = (function() {
 						}
 						else{
 							obj.$errorMessage.empty().append("<p><i class='icon fa fa-ban'></i> Username and password did not match.</p>").fadeIn(1000);
-							setTimeout(function() {obj.$errorMessage.fadeOut(1000);}, 5000);
 						}
 					}).always(function (){
 						NProgress.done();
